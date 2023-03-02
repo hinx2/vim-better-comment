@@ -14,7 +14,7 @@ local opts = {
         },
         {
             name = "?",
-            fg = "white",
+            fg = "green",
             bg = "#00FF00",
             bold = true,
             virtual_text = "",
@@ -35,7 +35,7 @@ local opts = {
         },
         {
             name = "!",
-            fg = "#00ff00",
+            fg = "#f44747",
             bg = "",
             bold = true,
             virtual_text = "",
