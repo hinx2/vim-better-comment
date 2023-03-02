@@ -13,8 +13,22 @@ local opts = {
             virtual_text = "",
         },
         {
+            name = "*",
+            fg = "#90EE90",
+            bg = "#00ff00",
+            bold = true,
+            virtual_text = "",
+        },
+        {
+            name = "!",
+            fg = "#f44747",
+            bg = "",
+            bold = true,
+            virtual_text = "",
+        },
+        {
             name = "?",
-            fg = " #00ffff",
+            fg = "#00ffff",
             bg = "",
             bold = true,
             virtual_text = "",
@@ -32,15 +46,7 @@ local opts = {
             bg = "",
             bold = false,
             virtual_text = "",
-        },
-        {
-            name = "!",
-            fg = "#f44747",
-            bg = "",
-            bold = true,
-            virtual_text = "",
         }
-
     },
 }
 
