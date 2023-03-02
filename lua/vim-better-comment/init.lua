@@ -14,8 +14,8 @@ local opts = {
         },
         {
             name = "?",
-            fg = "green",
-            bg = "#00FF00",
+            fg = " #00ffff",
+            bg = "",
             bold = true,
             virtual_text = "",
         },
@@ -128,4 +128,3 @@ function Create_hl(list)
 end
 
 return M
-Footer
