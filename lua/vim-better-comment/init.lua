@@ -132,3 +132,5 @@ function Create_hl(list)
         })
     end
 end
+
+return M
