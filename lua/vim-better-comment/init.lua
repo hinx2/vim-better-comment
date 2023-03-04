@@ -14,13 +14,10 @@ local opts = {
         },
         {
             name = "*",
-<<<<<<< HEAD
             fg = "#90EE90",
             bg = "#00ff00",
-=======
             fg = "#00ff00",
             bg = "",
->>>>>>> 6a87132 (added init)
             bold = true,
             virtual_text = "",
         },
@@ -45,7 +42,6 @@ local opts = {
             bold = true,
             virtual_text = "",
         },
-<<<<<<< HEAD
         {
             name = "WARNING",
             fg = "#FFA500",
@@ -53,8 +49,6 @@ local opts = {
             bold = false,
             virtual_text = "",
         }
-=======
->>>>>>> 6a87132 (added init)
     },
 }
 
@@ -140,9 +134,3 @@ function Create_hl(list)
         })
     end
 end
-
-<<<<<<< HEAD
-return M
-=======
-return M
->>>>>>> 6a87132 (added init)
